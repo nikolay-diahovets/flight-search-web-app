@@ -1,3 +1,20 @@
+# Flight search web-app
+
+This is a test task project where is created flight search web-app using React.
+
+## Task description
+
+Your task is to build a flight search web-app.
+- Three pages - home, results, checkout.
+- Home page should have a standard flight search form.
+- Results page should list flights that come back from the flight search API we provide - display whatever info you see fit. User should also be able to sort/filter/paginate the results (see flight API doc below to see what’s possible to filter/sort by, and how to paginate).
+- Checkout page should have a standard travel checkout form and display the selected flight.
+- Please use this flight search API to search for flights and display them: https://docs.google.com/document/d/1mW7VDujSHYzB6C5lP_lXG4zX8_Rm-VFxwGtxaSbpiXo/edit?usp=sharing
+- Use your preferred stack.
+- Use whatever UI frameworks you like to use.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
