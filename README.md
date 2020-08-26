@@ -15,6 +15,10 @@ Your task is to build a flight search web-app.
 
 ---
 
+To be able make flight request need to use Allow CORS: Access-Control-Allow-Origin chrome extension to solve CORS.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
